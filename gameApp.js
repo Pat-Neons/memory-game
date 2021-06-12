@@ -130,7 +130,7 @@ function resetGameInfo() {
     card.style.zIndex = 0;
   });
   // addClickEvents();
-  counter.innerText = 50;
+  counter.innerText = 25;
   userMatchedCards = [];
   clickedIndexes = [];
   winnerOverlay.classList.remove("show-overlay");
